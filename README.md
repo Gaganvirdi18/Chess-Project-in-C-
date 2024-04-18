@@ -21,9 +21,11 @@ https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/594052a7-ec
 
 ![IMG-20240414-WA0006](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/7aac73d8-25e2-4019-b503-5c9089cfb5db)
 
-**Payer killing another player piece: -**
+**Piece Moment: -**
 
 ![IMG-20240414-WA0008](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/409f94bf-9ebc-4b77-8b83-4c123e1e2db0)
+
+**Player1's Piece Kills Player2's Piece:**
 
 ![IMG-20240414-WA0007](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/7d9c7832-488a-49ee-ae3e-011ccbdd95ce)
 
