@@ -99,11 +99,11 @@ The class manages the state of a chessboard, the placement and movement of chess
 The GameState Class of a chess game, manages the board state, current player, and game result. The logic for managing the progress of a chess game, including legal moves, game state updates, and determining the game result. It also implements rules for detecting draw conditions such as threefold repetition and the fifty-move rule.
 
 
+_____________________________________________________________________________________________________________________________________________
+ **Installation Guidelines as per Project Phase 2 Requirement**
+_____________________________________________________________________________________________________________________________________________
 
 
-
-
-**Installation Guidelines as per Project Phase 2 Requirement**
 
 **1.	Define Requirements:**
 
