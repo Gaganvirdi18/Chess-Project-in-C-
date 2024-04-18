@@ -8,7 +8,11 @@ The Chess Game Application aims to provide participants with a playable and func
 **Screencast of the project: -**
 
 
-https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/594052a7-ec69-427e-a929-c40bf655d617
+
+
+https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/eeea4181-91e0-4c7a-ba8a-5c7eb5357490
+
+
 
 
 
@@ -21,7 +25,7 @@ https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/594052a7-ec
 
 ![IMG-20240414-WA0006](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/7aac73d8-25e2-4019-b503-5c9089cfb5db)
 
-**Piece Moment: -**
+**Piece Moments: -**
 
 ![IMG-20240414-WA0008](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/409f94bf-9ebc-4b77-8b83-4c123e1e2db0)
 
@@ -94,7 +98,12 @@ The class manages the state of a chessboard, the placement and movement of chess
 
 The GameState Class of a chess game, manages the board state, current player, and game result. The logic for managing the progress of a chess game, including legal moves, game state updates, and determining the game result. It also implements rules for detecting draw conditions such as threefold repetition and the fifty-move rule.
 
-**Installation Guidelines**
+
+
+
+
+
+**Installation Guidelines as per Project Phase 2 Requirement**
 
 **1.	Define Requirements:**
 
