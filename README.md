@@ -2,7 +2,38 @@
 **•	Objective.**
 
 
-The Chess Game Application aims to provide a playable and functional chess game experience for participants, following all normal rules, including piece movement and special moves like casting. A well-thought-out user interface, complete with check and checkmate signs, makes for intuitive games, while real-time board updates guarantee a smooth experience. With the ability to store movements and results for the last five games, the application will precisely record game history. Restart and new game options offer flexibility and are reinforced by strong error handling. Ensuring maintainability through prioritizing code quality and documentation, as well as validating correctness and stability through extensive testing, guarantees a positive experience for both developers and players.
+The Chess Game Application aims to provide participants with a playable and functional game experience, following all standard rules, including piece movement and special moves like casting. A well-thought-out user interface, complete with check and checkmate signs, makes for intuitive games, while real-time board updates guarantee a smooth experience. With the ability to store movements and results for the last five games, the application will precisely record game history. Restart and new game options are flexible and reinforced by solid error handling. Ensuring maintainability through prioritizing code quality and documentation and validating correctness and stability through extensive testing guarantees a positive experience for both developers and players.
+
+**Screencast of the project: -**
+
+
+https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/594052a7-ec69-427e-a929-c40bf655d617
+
+
+
+
+**Empty Board: -**
+
+![Board](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/4bbd7157-3f20-4b5c-85fa-dd6b9652b1a3)
+
+**Board with Chess Pieces**
+
+![IMG-20240414-WA0006](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/7aac73d8-25e2-4019-b503-5c9089cfb5db)
+
+**Payer killing another player piece: -**
+
+![IMG-20240414-WA0008](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/409f94bf-9ebc-4b77-8b83-4c123e1e2db0)
+
+![IMG-20240414-WA0007](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/7d9c7832-488a-49ee-ae3e-011ccbdd95ce)
+
+![IMG-20240414-WA0004](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/8c00ad03-192c-4aca-9597-8d0e9954e167)
+
+![IMG-20240414-WA0005](https://github.com/Gaganvirdi18/Chess-Project-in-C-/assets/156145073/69e3857a-83dc-4729-800b-a679f30b7bba)
+
+
+
+
+
 
 **•	Demonstrate the functionality of the classes.**
 
@@ -10,7 +41,7 @@ This C# code snippet is designed for a simple vehicle rental agency system. It o
 
 **•	Piece Class:**
 
-Piece class represents a position on a chessboard. It encapsulates a row and a column determining square colors, equality comparisons, and moving positions in different directions, which are the coordinates of the position, with properties of Row and Column. It initializes with the new instance of position class.
+Piece class represents a position on a chessboard. It encapsulates a row and a column, determining square colours, equality comparisons, and moving positions in different directions, which are the coordinates of the position, with Row and Column properties. It initializes with the new instance of the position class.
 
 **1.	Bishop Class:** 
 
