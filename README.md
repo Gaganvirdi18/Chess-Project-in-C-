@@ -1,3 +1,4 @@
+****Project Phase 2 Description with an Installation Guidelines****
 
 **•	Objective.**
 
@@ -91,6 +92,49 @@ The class manages the state of a chessboard, the placement and movement of chess
 
 The GameState Class of a chess game, manages the board state, current player, and game result. The logic for managing the progress of a chess game, including legal moves, game state updates, and determining the game result. It also implements rules for detecting draw conditions such as threefold repetition and the fifty-move rule.
 
+**Installation Guidelines**
+
+**1.	Define Requirements:**
+
+Clearly outline the requirements of your Chess Game Application. Consider aspects such as supported features (e.g., standard chess rules, special moves like castling and en passant), user interface design, multiplayer support, and any additional functionalities you want to include.
+
+**2.	Design the Architecture:**
+
+Define the overall architecture of your application. Decide on the main components, such as the chess logic engine, user interface, and game state management. Consider using a modular design approach to promote reusability and maintainability.
+
+**3.	Chess Logic Engine:**
+
+•	Implement classes for each type of chess piece (e.g., Pawn, Bishop, King), encapsulating their behaviour and movement rules.
+•	Develop classes to manage the chessboard state, including placing and moving pieces, checking for legal moves, and detecting game state (e.g., check, checkmate, draw).
+•	Handle special moves like castling, pawn promotion, and en passant capture according to the chess rules.
+
+**4.	User Interface:**
+
+•	Design an intuitive and visually appealing user interface for the chess game.
+•	Implement features such as displaying the chessboard, highlighting legal moves, indicating check and checkmate, and providing options for players to interact with the game.
+•	Ensure responsiveness and user-friendly interactions to enhance the gaming experience.
+
+**5.	Game State Management:**
+
+•	Create a class to manage the game state, including tracking player turns, recording move history, and determining game outcomes.
+•	Implement algorithms to detect draw conditions such as threefold repetition and the fifty-move rule to handle game termination appropriately.
+
+**6.	Testing and Validation:**
+
+•	Develop comprehensive test cases to validate the functionality of each component and ensure adherence to chess rules.
+•	Perform unit testing, integration testing, and system testing to identify and fix any bugs or logical errors.
+•	Conduct user testing to gather usability feedback and identify improvement areas.
+
+**7.	Documentation and Maintenance:**
+
+•	Document the design rationale, class structures, and functionalities of your Chess Game Application to facilitate future development and maintenance.
+•	Maintain clear and consistent coding standards to ensure readability and scalability.
+•	Provide user documentation or tutorials to guide players on using the application effectively.
+
+**8.	Optimization and Performance:**
+
+•	Optimize algorithms and data structures to improve the performance of critical operations such as move generation and game state evaluation.
+•	Consider implementing features like move pruning and caching to enhance the efficiency of the chess engine.
 
 
 
